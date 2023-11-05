@@ -13,3 +13,6 @@ Agustina Moreno
 Maximiliano Morey 
 
 Maximiliano Soriano 
+
+# link de la página ya deployada
+https://rolling-glass.netlify.app/
